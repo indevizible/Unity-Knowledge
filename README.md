@@ -4,8 +4,7 @@
 
 ### Knowledges ###
 
-* ✅ blank
-* ☑️HTTP
-* ☑️Facebook Connect
-* ☑️Score Board
-
+* 🔘 blank
+* ⚪️ HTTP
+* ⚪️ Facebook Connect
+* ⚪️ Score Board
