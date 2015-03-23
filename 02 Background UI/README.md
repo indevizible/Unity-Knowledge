@@ -4,6 +4,10 @@
 
 ## วิธีทำ
 
+### Hierarchy
+
+![](https://raw.githubusercontent.com/indevizible/Unity-Knowledge/master/02%20Background%20UI/Hierachy.png "Hierarchy")
+
 ### GUI Background Layer
 
 เป็นส่วนที่จะแสดงผลเป็น Background
@@ -13,7 +17,7 @@
 3.	เพิ่ม Layer ชื่อ background
 4.	คลิกที่ Hierarchy > Background ตั้งค่าตามนี้
 
-![](https://raw.githubusercontent.com/indevizible/Unity-Knowledge/master/photo-75269.gif "วิธีตั้งค่า Background Camera")
+![](https://raw.githubusercontent.com/indevizible/Unity-Knowledge/master/02%20Background%20UI/UI_Canvas.png "วิธีตั้งค่า Background Camera")
 
 ตรง Camera ปล่อยเป็น None ไว้ก่อน
 
@@ -22,13 +26,13 @@
 
 *	ทำ Background Camera ได้โดยการ Duplicate Main Camera ขึ้นมา พร้อมกับตั้งค่า Camera ดังนี้
 
-![](https://raw.githubusercontent.com/indevizible/Unity-Knowledge/master/photo-75269.gif "วิธีตั้งค่า Background Camera")
+![](https://raw.githubusercontent.com/indevizible/Unity-Knowledge/master/02%20Background%20UI/bg_cam.png "Background Camera")
 
 *	ปรับค่า Culling Mask โดยเลือกที่ Nothing แล้วเลือกที่ Background อีกรอบ ให้แน่ใจตรง Drop list เขียนไว้ว่า Background
 
 *	ปรับ Main camera ดังนี้
 
-![](https://raw.githubusercontent.com/indevizible/Unity-Knowledge/master/photo-75269.gif "วิธีตั้งค่า Background Camera")
+![](https://raw.githubusercontent.com/indevizible/Unity-Knowledge/master/02%20Background%20UI/main_cam.png "Main Camera")
 
 *	ปรับค่า Culling Mask โดยคลิกเลือกที่ Background ตรง drop list จะขึ้นคำว่า Mixed...
 
