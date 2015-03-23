@@ -11,5 +11,5 @@
 
 ### Knowledges
 
-1.	[Array List Shuffle](/01 List (Array) shuffle/array_shuffle.md)
+1.	[Array List Shuffle](/01 List (Array) shuffle/)
 2.	...
