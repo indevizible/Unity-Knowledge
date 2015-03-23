@@ -11,7 +11,7 @@
 4.	อ้างอิง
 5.	คีย์เวิร์ด
 
-### Knowledges
+### Knowledge
 
 1.	[Array List Shuffle](/01 List (Array) shuffle/)
 2.	[Background UI](/02 Background UI/)
