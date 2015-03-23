@@ -6,7 +6,7 @@
 
 ## Code (Helper.cs)
 
-```
+```c#
 static class Helpers
 {
 	public static void Shuffle<T>(this IList<T> list)  
@@ -27,7 +27,7 @@ static class Helpers
 
 ## Example
 
-```
+```c#
 List<int> array = new List<int>{1,2,3,4,5,6}();
 array.Shuffle();
 ```
