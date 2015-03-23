@@ -11,5 +11,5 @@
 
 ### Knowledges
 
-1.	Array (List\<T\>) Shuffle
+1.	[Array List Shuffle](https://github.com/indevizible/Unity-Knowledge/blob/master/01 List (Array) shuffle/array_shuffle.md)
 2.	...
