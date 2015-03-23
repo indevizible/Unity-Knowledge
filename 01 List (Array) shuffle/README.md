@@ -1,7 +1,5 @@
 # Array Shuffle
 
-## Overview
-
 **ใช้สำหรับ** สุ่มสับเปลี่ยน Array ที่เป็น IList\<T\> .
 
 ## Code (Helper.cs)
